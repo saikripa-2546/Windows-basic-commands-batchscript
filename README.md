@@ -23,38 +23,46 @@ Execute the necessary commands/batch file for the desired output.
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
+
 ![Alt text](image.png)
 ## COMMAND AND OUTPUT
 
 Remove the directory "my-folder"
+
 ![Alt text](image-1.png)
 ## COMMAND AND OUTPUT
 
 
 Create the file Rose.txt
+
 ![Alt text](image-2.png)
 ## COMMAND AND OUTPUT
 
 
 Create the file hello.txt using echo and redirection
+
 ![Alt text](image-3.png)
 ## COMMAND AND OUTPUT
 
 Copy the file hello.txt into the file hello1.txt
+
 ![Alt text](image-4.png)
 ## COMMAND AND OUTPUT
 
 Remove the file hello1.txt
+
 ![Alt text](image-5.png)
 
 ## COMMAND AND OUTPUT
 
 List out all the associated file extensions 
+
 ![Alt text](image-6.png)
 ## COMMAND AND OUTPUT
 
 
 Compare the file hello.txt and rose.txt
+
 ![Alt text](image-7.png)
 ## COMMAND AND OUTPUT
 
