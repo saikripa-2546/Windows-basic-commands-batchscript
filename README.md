@@ -120,7 +120,7 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 ## OUTPUT
 
-![Alt text](image-13.png)
+
 
 # RESULT:
 The commands/batch files are executed successfully.
