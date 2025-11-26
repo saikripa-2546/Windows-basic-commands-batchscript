@@ -24,46 +24,42 @@ Execute the necessary commands/batch file for the desired output.
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
 
-![Alt text](image.png)
+
 ## COMMAND AND OUTPUT
 
 Remove the directory "my-folder"
 
-![Alt text](image-1.png)
+
 ## COMMAND AND OUTPUT
 
 
 Create the file Rose.txt
 
-![Alt text](image-2.png)
+
 ## COMMAND AND OUTPUT
 
 
 Create the file hello.txt using echo and redirection
 
-![Alt text](image-3.png)
 ## COMMAND AND OUTPUT
 
 Copy the file hello.txt into the file hello1.txt
 
-![Alt text](image-4.png)
 ## COMMAND AND OUTPUT
 
 Remove the file hello1.txt
 
-![Alt text](image-5.png)
 
 ## COMMAND AND OUTPUT
 
 List out all the associated file extensions 
 
-![Alt text](image-6.png)
 ## COMMAND AND OUTPUT
 
 
 Compare the file hello.txt and rose.txt
 
-![Alt text](image-7.png)
+
 ## COMMAND AND OUTPUT
 
 ## Exercise 2: Advanced Batch Scripting
@@ -73,7 +69,7 @@ Create a batch file named on the desktop. The batch file need to have a variable
 
 
 ## OUTPUT
-![Alt text](image-9.png)
+
 
 
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
@@ -88,7 +84,7 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 ## OUTPUT
 
-![Alt text](image-10.png)
+
 
 
 Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
@@ -98,7 +94,7 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 ## OUTPUT
 
-![Alt text](image-11.png)
+
 
 
 Write a batch script to check whether a file named sample.txt exists in the current directory. If the file exists, display the message sample.txt exists. Otherwise, display sample.txt does not exist. Pause the script at the end to view the result.
